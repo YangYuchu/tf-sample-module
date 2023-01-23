@@ -1,6 +1,5 @@
 # tf-sample-module
-moduleを使って複数の環境を作成するテンプレート
-/environment/{dev|stg|prd}/terraform.tfvarsに環境ごとの値を入れる
+An scalable aws builder using terraform
 # Features
 ## aws
 * VPC
